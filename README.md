@@ -1,4 +1,11 @@
-### Hi there 👋
+My Programming Languages 🌌
+
+![image](https://user-images.githubusercontent.com/69500496/131209993-a0dbb759-c372-480a-8900-b03b7d58ae87.png) ![image](https://user-images.githubusercontent.com/69500496/131209997-829afb9b-7eb6-4270-b11a-ea1aac2aea9b.png) 
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aztek71&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Aztek71/Aztek71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
