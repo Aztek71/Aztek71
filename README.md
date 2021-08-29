@@ -1,3 +1,5 @@
+My presentation 😃
+
 ``` javascript
 function whoAmI(name, job, codingLaunguage) {
 
@@ -19,7 +21,10 @@ whoAmI("Aztek71", "independent developer", "Javascript, Python, More . . .")
  
  Executed : 
  ```
- ...
+    Hello, my name is Aztek71
+    I'm a independent developer for the moment
+    I'm actually work on Javascript, Python, More . . .
+
  ```
 
 
