@@ -14,7 +14,12 @@ function whoAmI(name, job, codingLaunguage) {
 }
 
 
-whoAmI("fox3000foxy", "independent developer", "Javascript")
+whoAmI("Aztek71", "independent developer", "Javascript, Python, More . . .")
+ ```
+ 
+ Executed : 
+ ```
+ ...
  ```
 
 
