@@ -11,7 +11,7 @@ My tools 🛠️
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aztek71&layout=compact&theme=dark&title_color=blue&border_radius=100px, 10px)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aztek71&layout=compact&theme=dark&title_color=blue&locale=fr)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Aztek71/Aztek71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
