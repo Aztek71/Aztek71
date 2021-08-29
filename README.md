@@ -1,6 +1,6 @@
 My Programming Languages 🌌
 
-![image](https://user-images.githubusercontent.com/69500496/131209993-a0dbb759-c372-480a-8900-b03b7d58ae87.png) ![image](https://user-images.githubusercontent.com/69500496/131209997-829afb9b-7eb6-4270-b11a-ea1aac2aea9b.png)  ![image](https://user-images.githubusercontent.com/69500496/131243599-17e61131-6a90-4a25-ac10-2c39e511b593.png)
+![image](https://user-images.githubusercontent.com/69500496/131243616-8cb5d5b6-69b2-404f-b3b6-37b3cba1aa13.png) ![image](https://user-images.githubusercontent.com/69500496/131243611-cd106e78-2372-423d-8154-39d0fefb41c1.png)  ![image](https://user-images.githubusercontent.com/69500496/131243599-17e61131-6a90-4a25-ac10-2c39e511b593.png)
 
 
 
