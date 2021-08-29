@@ -1,3 +1,4 @@
+` `` js 
 function whoAmI(name, job, codingLaunguage) {
     console.log(`
     Hello, my name is ${name}
@@ -7,6 +8,7 @@ function whoAmI(name, job, codingLaunguage) {
 }
 
 whoAmI("fox3000foxy", "independent developer", "Javascript")
+ `` `
 
 
 
