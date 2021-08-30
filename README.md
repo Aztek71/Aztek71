@@ -9,7 +9,7 @@ function whoAmI(name, job, codingLaunguage) {
     
     I'm a ${job} for the moment
     
-    I'm actually work on ${codingLaunguage}
+    I actually work on ${codingLaunguage}
     
     `)
     
@@ -23,7 +23,7 @@ whoAmI("Aztek71", "independent developer", "Javascript, Python, More . . .")
  ```
     Hello, my name is Aztek71
     I'm a independent developer for the moment
-    I'm actually work on Javascript, Python, More . . .
+    I actually work on Javascript, Python, More . . .
 
  ```
 
